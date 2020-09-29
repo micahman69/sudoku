@@ -1,11 +1,7 @@
 # Solving Every Sudoku Puzzle
 
 
-Peter Norvig presents a nice and simple way to solve every Sudoku puzzle in
-http://norvig.com/sudoku.html, and mention some ports of his effort. He
-picked python to implement his solver, and there's no Common Lisp port.
-
-Let's begin by copying the introduction as-is:
+SOLVE SUDOKU THING!!!!
 
 ## Sudoku Notation and Preliminary Notions
 
